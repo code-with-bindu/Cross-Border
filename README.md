@@ -5,6 +5,7 @@ GlobalEase:  AI tool that simplifies international expansion by streamlining
 compliance, market analysis, and financial support.
 
 
+
  GlobalEase is designed to help companies expand internationally by 
 addressing complex compliance, market knowledge, financial support, and 
 regulatory challenges. We plan to build a comprehensive tool powered by 
