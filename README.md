@@ -15,6 +15,7 @@ Generative AI (GenAI) and machine learning that simplifies these
 challenges into clear, actionable insights.
 
 
+
  1) Compliance Management Tool Powered by GenAI:
     
  Purpose: This tool will help companies understand and meet compliance 
