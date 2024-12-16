@@ -30,6 +30,7 @@ industry databases. The tool will then provide simplified summaries or
 explanations, making complex regulations easier to understand.
 
 
+
  Benefit: Companies get a clear overview of compliance needs for each 
 market, saving time and reducing errors.
 
