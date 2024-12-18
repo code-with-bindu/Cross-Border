@@ -3,6 +3,7 @@
 gen-ai-powered tool to simplify cross-border  regulations and govt incentives for sellers in e-commerce
 
 
+
 GlobalEase:  AI tool that simplifies international expansion by streamlining 
 compliance, market analysis, and financial support.
 
